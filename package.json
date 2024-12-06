@@ -10,14 +10,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/rss": "^4.0.1",
-    "@astrojs/sitemap": "^3.0.4",
-    "@csstools/postcss-global-data": "^2.1.1",
-    "astro": "^4.1.1",
+    "@astrojs/rss": "^4.0.10",
+    "@astrojs/sitemap": "^3.2.1",
+    "@csstools/postcss-global-data": "^3.0.0",
+    "astro": "^5.0.3",
     "markdown-it": "^14.0.0",
-    "postcss-preset-env": "^9.3.0",
+    "postcss-preset-env": "^10.1.1",
     "postcss-pxtorem": "^6.0.0",
     "sanitize-html": "^2.11.0",
-    "vite-plugin-pwa": "^0.17.4"
+    "vite-plugin-pwa": "^0.21.1"
   }
 }

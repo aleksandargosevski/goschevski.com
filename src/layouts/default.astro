@@ -1,7 +1,7 @@
 ---
 import Sidebar from '../components/Sidebar.astro';
 import MenuButton from '../components/MenuButton.astro';
-import { ViewTransitions } from 'astro:transitions';
+import { ClientRouter } from 'astro:transitions';
 const { title, description } = Astro.props;
 import { pageTitle, pageDescription, manifest } from '../consts';
 import socialMediaImage from '../img/social.png';
@@ -135,7 +135,7 @@ document.addEventListener('astro:after-swap', () => {
     <link rel="sitemap" href="/sitemap-index.xml" />
 
     <!-- transitions -->
-    <ViewTransitions />
+    <ClientRouter />
   </head>
   <body>
     <div data-wrapper>
