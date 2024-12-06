@@ -129,6 +129,11 @@ figure {
   margin-bottom: 2em;
 }
 
+article li {
+  margin-left: 1em;
+  list-style-type: disc;
+}
+
 /* utilities */
 
 .u-screenReaders {
