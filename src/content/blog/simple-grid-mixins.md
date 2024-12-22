@@ -115,4 +115,4 @@ Okay, so with just a few lines of Sass we've created a grid system that:
 - Handles gaps correctly for first and last columns
 - Has cells snap to the full-width of the container on mobile devices
 
-And we achieved all of this in just 16 lines of code! You can see a full demo how these mixins are used, on [CodePen](http://codepen.io/goschevski/full/Awuyz).
+And we achieved all of this in just 16 lines of code! You can see a full demo how these mixins are used, on [CodePen](http://codepen.io/aleksandargosevski/full/Awuyz).
