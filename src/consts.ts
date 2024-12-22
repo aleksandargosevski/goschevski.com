@@ -1,6 +1,6 @@
 export const pageTitle = 'Aleksandar Goševski - software engineer'
 export const pageDescription = 'Exploring the world of web development, programming, devops, tools, design, etc.'
-export const domain = 'https://www.goschevski.com'
+export const domain = 'https://aleksandargosevski.com'
 import type { ManifestOptions } from 'vite-plugin-pwa'
 
 export const manifest: Partial<ManifestOptions> = {
